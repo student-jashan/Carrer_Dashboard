@@ -1,5 +1,7 @@
-📊 Education to Career Outcomes Dashboard
+<img width="868" height="484" alt="Screenshot 2026-03-04 173825" src="https://github.com/user-attachments/assets/9dc556d2-1f68-4d12-9e1b-693c507db8a8" />
 
+
+📊 Education to Career Outcomes Dashboard
 This dashboard analyzes how students transition from education into careers by examining placement outcomes, salary trends, and influencing factors like GPA, field of study, and job level.
 
 🔢 Key Metrics (Left Panel)
