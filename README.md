@@ -1,4 +1,4 @@
-#📊 Education to Career Outcomes Dashboard
+##📊 Education to Career Outcomes Dashboard
 
 This dashboard analyzes how students transition from education into careers by examining placement outcomes, salary trends, and influencing factors like GPA, field of study, and job level.
 
